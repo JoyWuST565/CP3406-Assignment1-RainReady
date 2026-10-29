@@ -1,0 +1,14 @@
+# Local tooling and generated output
+.gradle/
+.kotlin/
+.idea/
+local.properties
+*.iml
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.jks
+*.keystore
+.DS_Store
+Thumbs.db
